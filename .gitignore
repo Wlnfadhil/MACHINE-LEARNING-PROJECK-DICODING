@@ -1,0 +1,21 @@
+# Mengabaikan environment folder
+.env
+.env
+# Mengabaikan file Python bytecode
+__pycache__/
+*.py[cod]
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan file konfigurasi editor
+.vscode/
+.idea/
+
+# Mengabaikan file data
+*.csv
+*.json
+
+# Mengabaikan file yang dihasilkan oleh sistem operasi
+.DS_Store
+Thumbs.db
