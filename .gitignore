@@ -14,8 +14,7 @@ __pycache__/
 .idea/
 
 # Mengabaikan file data
-*.csv
-*.json
+
 
 # Mengabaikan file yang dihasilkan oleh sistem operasi
 .DS_Store
