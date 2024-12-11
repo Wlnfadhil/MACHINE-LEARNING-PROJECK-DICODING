@@ -1,6 +1,7 @@
 # Mengabaikan environment folder
 .env
 .env
+.venv
 # Mengabaikan file Python bytecode
 __pycache__/
 *.py[cod]
