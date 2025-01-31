@@ -1,0 +1,7 @@
+
+numpy
+Sastrawi
+textblob
+nltk
+scikit-learn
+nlp-id
